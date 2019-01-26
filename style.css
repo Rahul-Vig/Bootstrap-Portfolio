@@ -62,3 +62,15 @@ body {
   font-weight: 900;
   color: black;
 }
+
+@media only screen and (max-width: 1200px) {
+  #about-text {
+    font-size: small;
+  }
+}
+
+@media only screen and (max-width: 991px) {
+  #about-text {
+    font-size: x-small;
+  }
+}
