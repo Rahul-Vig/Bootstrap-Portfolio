@@ -111,15 +111,11 @@ body {
 }
 
 #card1 {
-  background-image: url("usb.jpg");
+  background-image: url("zen.png");
 }
 
 #card2 {
-  background-image: url("usb.jpg");
-}
-
-#card2 {
-  background-image: url("usb.jpg");
+  background-image: url("word-guess.png");
 }
 
 #card3 {
